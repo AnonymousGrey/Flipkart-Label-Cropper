@@ -11,39 +11,52 @@ An intelligent PDF label cropping tool designed to trim and resize shipping labe
 - 🖼️ Save all cropped labels as a single combined PDF
 - 🧑‍💻 Simple GUI
 
+------------------------------------------------------------------------------------------
   
 🛠️ Installation
 
 ✅ Step 1: Clone the repository
 
-`git clone https://github.com/yourusername/smart-label-cropper.git`
-`cd smart-label-cropper`
+```
+
+git clone https://github.com/yourusername/smart-label-cropper.git`
+cd smart-label-cropper
+
+```
 
 ✅ Step 2: Install dependencies
 Make sure you have Python 3.8+ installed. Then run in terminal:
 
 ```
 
-
 pip install PyMuPDF Pillow
-
-
 
 ```
 
 ▶️ Usage
 Run the GUI tool using:
 
-`python main.py`
+```
 
+python main.py
+
+```
+------------------------------------------------------------------------------------------
 🧰 Build .exe (Optional)
 
 🔧 Step 1: Install PyInstaller
-` pip install pyinstaller`
+```
+
+pip install pyinstaller
+
+```
 
 🏗️ Step 2: Create .exe file
-`pyinstaller --noconsole --onefile --icon=icon.ico main.py`
+```
 
+pyinstaller --noconsole --onefile --icon=icon.ico main.py
+
+```
 ⚠️Don't have an icon? Just skip --icon=icon.ico.
 
 The .exe will be available inside the dist/ folder:
@@ -61,3 +74,4 @@ Vivek Sankath
 🪪 License
 MIT License – Free to use, modify, and share with credit! 🙌
 
+------------------------------------------------------------------------------------------
