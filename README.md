@@ -16,5 +16,5 @@ An intelligent PDF label cropping tool designed to trim and resize shipping labe
 
 ✅ Step 1: Clone the repository
 
-git clone https://github.com/yourusername/smart-label-cropper.git
+`git clone https://github.com/yourusername/smart-label-cropper.git
 cd smart-label-cropper
