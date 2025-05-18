@@ -22,7 +22,14 @@ An intelligent PDF label cropping tool designed to trim and resize shipping labe
 ✅ Step 2: Install dependencies
 Make sure you have Python 3.8+ installed. Then run in terminal:
 
-`pip install PyMuPDF Pillow`
+```
+
+
+pip install PyMuPDF Pillow
+
+
+
+```
 
 ▶️ Usage
 Run the GUI tool using:
